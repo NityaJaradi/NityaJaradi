@@ -5,141 +5,130 @@
 </h3>
 
 <p align="center">
-Passionate about Cloud Computing, Linux, DevOps, and building scalable cloud solutions.
+Building a strong foundation in Cloud Computing through continuous learning, hands-on practice, and real-world learning.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Cloud+Computing+Enthusiast;Microsoft+Azure+Learner;Linux+Explorer;Learning+DevOps+Tools;Future+Cloud+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Cloud+Computing+Enthusiast;Microsoft+Azure+Learner;Linux+Learner;Always+Learning+Something+New;Future+Cloud+Engineer" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 MCA Student passionate about Cloud Computing and modern IT infrastructure.
+I'm an MCA student with a strong interest in **Cloud Computing** and modern IT infrastructure.
 
-☁️ Currently building practical skills in Microsoft Azure, Linux, Docker, and cloud networking.
+My learning journey began with understanding how websites are hosted and managed, which naturally led me to explore cloud platforms, Linux, networking, and Microsoft Azure.
 
-💻 Interested in designing, deploying, and managing scalable cloud solutions.
+Currently, I'm focused on building a strong foundation in cloud technologies instead of rushing into advanced tools. I believe that understanding the fundamentals is the key to becoming a successful Cloud Engineer.
 
-📚 I enjoy learning by building projects, completing certifications, and exploring new technologies.
-
-🎯 **Career Goal:** Become a Cloud Engineer specializing in Microsoft Azure and Cloud Infrastructure.
+I'm continuously learning through official documentation, hands-on practice, certifications, and personal projects.
 
 ---
 
-# 🚀 Current Learning
+# 🎯 Current Focus
 
-- ☁️ Microsoft Azure (AZ-900)
-- 🐧 Linux Administration
-- 🐳 Docker
-- 🌐 Cloud Networking
-- 🌍 WordPress Hosting
-- 🔧 Terraform *(Learning)*
-- ☸️ Kubernetes *(Learning)*
+- ☁️ Microsoft Azure Fundamentals (AZ-900)
+- 🐧 Linux Fundamentals
+- 🌐 Cloud Computing Concepts
+- 🔧 Git & GitHub
+- 🌍 WordPress Hosting & Deployment
 
 ---
 
-# 🛠️ Tech Stack
+# 📚 Learning Journey
+
+```text
+🎓 Started MCA
+
+↓
+
+☁️ Discovered Cloud Computing
+
+↓
+
+🐧 Completed Linux Fundamentals
+
+↓
+
+🌐 Learned Website Hosting & WordPress
+
+↓
+
+☁️ Started Microsoft Azure
+
+↓
+
+🎯 Preparing for AZ-900
+
+↓
+
+🚀 Building a Career in Cloud Computing
+```
+
+---
+
+# 🛠 Skills & Technologies
 
 ### ☁️ Cloud
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🐧 Operating System
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🚀 DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Learning-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🔧 Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🌐 Web
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
----
-
-# 📚 Learning Roadmap
-
-- ✅ Git & GitHub
-- ✅ WordPress Deployment
-- ✅ Linux Fundamentals
-- 🔄 Microsoft Azure AZ-900
-- ⏳ Docker
-- ⏳ Kubernetes
-- ⏳ Terraform
-- 🎯 Microsoft Azure AZ-104
 
 ---
 
 # 📜 Certifications
 
-🏅 Linux Foundation LFS101 *(Completed)*
-
-🎯 Microsoft Azure Fundamentals (AZ-900) *(Preparing)*
-
----
-
-# 🚀 Featured Projects
-
-## 🌐 Phoenix Archery Website
-
-A professional business website built using:
-
-- WordPress
-- Elementor
-- Cloudflare
-- Hostinger
+- 🏅 **Microsoft Learn Achievements**
+- 🏅 **YUVA AI For ALL** — *NASSCOM*
 
 ---
 
-## ☁️ Cloud Journey *(Upcoming)*
+# 💡 Learning Philosophy
 
-- Azure Virtual Machines
-- Azure Virtual Network
-- Azure Storage
-- Azure App Service
-- Azure Monitor
-- Azure Resource Groups
+> *"Every expert was once a beginner."*
+
+I believe in learning by understanding concepts, experimenting with technology, and continuously improving through practice. My goal isn't to collect badges—it's to build the knowledge and skills needed to become a capable Cloud Engineer.
 
 ---
 
-# 📊 GitHub Analytics
+# 🎯 Career Goal
+
+My goal is to build a career in Cloud Computing by gaining strong knowledge of cloud infrastructure, system administration, and Microsoft Azure.
+
+I aim to contribute to designing, deploying, and managing secure, scalable, and reliable cloud solutions while continuously learning and growing in this field.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NityaJaradi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NityaJaradi&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NityaJaradi&theme=tokyonight&hide_border=true"/>
-</p>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NityaJaradi&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NityaJaradi&theme=tokyo-night"/>
 </p>
 
 ---
@@ -165,7 +154,9 @@ A professional business website built using:
 ---
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=NityaJaradi&style=for-the-badge&color=0078D4"/>
+
 </p>
 
 <h3 align="center">
