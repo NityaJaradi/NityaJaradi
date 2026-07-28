@@ -1,16 +1,18 @@
-<h1 align="center">Hi , I'm Nitya Jaradi</h1>
+<div align="center">
 
-<p align="center">
-<b>MCA Student • Aspiring Cloud Engineer • Microsoft Azure Learner</b>
-</p>
+# Hi 👋, I'm Nitya Jaradi
 
-<p align="center">
-Learning Cloud Computing one step at a time.
-</p>
+### ☁️ MCA Student • Aspiring Cloud Engineer • Microsoft Azure Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=Learning+Cloud+Computing+one+step+at+a+time.;Always+Learning.;Always+Growing." />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
+
+<img align="right" width="250" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 I'm an MCA student passionate about **Cloud Computing** and modern IT infrastructure.
 
@@ -20,18 +22,39 @@ Rather than rushing through every new technology, I'm focusing on building stron
 
 My long-term goal is to become a Cloud Engineer capable of designing, deploying, and managing secure cloud solutions.
 
----
-
-## 🎯 What I'm Currently Learning
-
-- ☁ Microsoft Azure
-- 🌐 Cloud Computing Concepts
-- 🔧 Git & GitHub
-- 🌍 WordPress Hosting
+<br>
 
 ---
 
-## 📖 My Learning Journey
+# 🎯 What I'm Currently Learning
+
+<table>
+<tr>
+
+<td width="50%">
+
+☁ Microsoft Azure
+
+🌐 Cloud Computing Concepts
+
+🔧 Git & GitHub
+
+🌍 WordPress Hosting
+
+</td>
+
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Focused_On-Learning-0078D4?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📖 My Learning Journey
 
 ```text
 Started MCA
@@ -44,7 +67,6 @@ Website Hosting & WordPress
       │
       ▼
 Microsoft Azure
-      
       │
       ▼
 Future Cloud Engineer 🚀
@@ -52,39 +74,52 @@ Future Cloud Engineer 🚀
 
 ---
 
-## 🛠 Technologies I'm Working With
+# 🛠 Technologies I'm Working With
 
 ### ☁ Cloud
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
 ### 🐧 Operating System
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ### 🔧 Version Control
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ### 🌐 Web
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
----
-
-## 📜 Certifications
-
-🏅 **Microsoft Learn Achievements**
-
-🏅 **YUVA AI For ALL** *(NASSCOM)*
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+</p>
 
 ---
 
-## 💡 My Learning Philosophy
+# 📜 Certifications
+
+<div align="center">
+
+| Certification | Organization |
+|:--------------|:------------|
+| 🏅 Microsoft Learn Achievements | Microsoft |
+| 🏅 YUVA AI For ALL | NASSCOM |
+
+</div>
+
+---
+
+# 💡 My Learning Philosophy
 
 > **"Strong fundamentals build strong engineers."**
 
@@ -99,7 +134,7 @@ My approach is simple:
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
 My objective is to build a career in Cloud Computing by developing expertise in Microsoft Azure and cloud infrastructure.
 
@@ -107,7 +142,7 @@ I'm committed to continuous learning and gaining practical experience that prepa
 
 ---
 
-## 📈 GitHub Journey
+# 📈 GitHub Journey
 
 I'm currently using GitHub to document my learning journey, improve my technical skills, and share projects as I continue growing in Cloud Computing.
 
@@ -115,29 +150,38 @@ Every repository represents another step forward.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/nitya-jaradi-908346225">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://x.com/NityaJaradi2">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="mailto:nityajaradi02@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=NityaJaradi&style=for-the-badge&color=0078D4"/>
+
+<br><br>
 I'm always open to connecting with fellow learners, cloud enthusiasts, and professionals.
+### ⭐ Thanks for visiting my profile!
 
 
-⭐ Thanks for visiting my profile!
+
+</div>
