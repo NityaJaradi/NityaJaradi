@@ -135,8 +135,6 @@ Every repository represents another step forward.
 
 ---
 
----
-
 ## 🤝 Let's Connect
 
 I'm always open to connecting with fellow learners, cloud enthusiasts, and professionals.
