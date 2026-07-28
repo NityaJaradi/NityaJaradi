@@ -176,7 +176,6 @@ Every repository represents another step forward.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=NityaJaradi&style=for-the-badge&color=0078D4"/>
 
 <br><br>
 I'm always open to connecting with fellow learners, cloud enthusiasts, and professionals.
