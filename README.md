@@ -1,141 +1,129 @@
 <h1 align="center">Hi 👋, I'm Nitya Jaradi</h1>
 
-<h3 align="center">
-☁️ MCA Student | Aspiring Cloud Engineer | Microsoft Azure Learner
-</h3>
-
 <p align="center">
-Building a strong foundation in Cloud Computing through continuous learning, hands-on practice, and real-world learning.
+<b>MCA Student • Aspiring Cloud Engineer • Microsoft Azure Learner</b>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Cloud+Computing+Enthusiast;Microsoft+Azure+Learner;Linux+Learner;Always+Learning+Something+New;Future+Cloud+Engineer" />
+Learning Cloud Computing one step at a time.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm an MCA student with a strong interest in **Cloud Computing** and modern IT infrastructure.
+I'm an MCA student passionate about **Cloud Computing** and modern IT infrastructure.
 
-My learning journey began with understanding how websites are hosted and managed, which naturally led me to explore cloud platforms, Linux, networking, and Microsoft Azure.
+My interest in cloud started while learning how websites are hosted and managed. That curiosity gradually introduced me to Linux, networking, Microsoft Azure, and cloud technologies.
 
-Currently, I'm focused on building a strong foundation in cloud technologies instead of rushing into advanced tools. I believe that understanding the fundamentals is the key to becoming a successful Cloud Engineer.
+Rather than rushing through every new technology, I'm focusing on building strong fundamentals through hands-on learning, certifications, and practical experience.
 
-I'm continuously learning through official documentation, hands-on practice, certifications, and personal projects.
+My long-term goal is to become a Cloud Engineer capable of designing, deploying, and managing secure cloud solutions.
 
 ---
 
-# 🎯 Current Focus
+## 🎯 What I'm Currently Learning
 
-- ☁️ Microsoft Azure Fundamentals (AZ-900)
+- ☁ Microsoft Azure Fundamentals (AZ-900)
 - 🐧 Linux Fundamentals
 - 🌐 Cloud Computing Concepts
 - 🔧 Git & GitHub
-- 🌍 WordPress Hosting & Deployment
+- 🌍 WordPress Hosting
 
 ---
 
-# 📚 Learning Journey
+## 📖 My Learning Journey
 
 ```text
-🎓 Started MCA
-
-↓
-
-☁️ Discovered Cloud Computing
-
-↓
-
-🐧 Completed Linux Fundamentals
-
-↓
-
-🌐 Learned Website Hosting & WordPress
-
-↓
-
-☁️ Started Microsoft Azure
-
-↓
-
-🎯 Preparing for AZ-900
-
-↓
-
-🚀 Building a Career in Cloud Computing
+Started MCA
+      │
+      ▼
+Interest in Cloud Computing
+      │
+      ▼
+Linux Fundamentals
+      │
+      ▼
+Website Hosting & WordPress
+      │
+      ▼
+Microsoft Azure
+      │
+      ▼
+Preparing for AZ-900
+      │
+      ▼
+Future Cloud Engineer 🚀
 ```
 
 ---
 
-# 🛠 Skills & Technologies
+## 🛠 Technologies I'm Working With
 
-### ☁️ Cloud
+### ☁ Cloud
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### 🐧 Operating System
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 🔧 Version Control
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### 🌐 Web
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
----
-
-# 📜 Certifications
-
-- 🏅 **Microsoft Learn Achievements**
-- 🏅 **YUVA AI For ALL** — *NASSCOM*
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
 
-# 💡 Learning Philosophy
+## 📜 Certifications
 
-> *"Every expert was once a beginner."*
+🏅 **Microsoft Learn Achievements**
 
-I believe in learning by understanding concepts, experimenting with technology, and continuously improving through practice. My goal isn't to collect badges—it's to build the knowledge and skills needed to become a capable Cloud Engineer.
-
----
-
-# 🎯 Career Goal
-
-My goal is to build a career in Cloud Computing by gaining strong knowledge of cloud infrastructure, system administration, and Microsoft Azure.
-
-I aim to contribute to designing, deploying, and managing secure, scalable, and reliable cloud solutions while continuously learning and growing in this field.
+🏅 **YUVA AI For ALL** *(NASSCOM)*
 
 ---
 
-# 📊 GitHub Stats
+## 💡 My Learning Philosophy
 
-<p align="center">
+> **"Strong fundamentals build strong engineers."**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NityaJaradi&show_icons=true&theme=tokyonight&hide_border=true"/>
+I believe learning should go beyond watching videos.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NityaJaradi&layout=compact&theme=tokyonight&hide_border=true"/>
+My approach is simple:
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NityaJaradi&theme=tokyonight&hide_border=true"/>
-
-</p>
+- 📘 Learn from official documentation
+- 🧪 Practice through hands-on labs
+- 📝 Document what I learn
+- 🔄 Keep improving every day
 
 ---
 
-# 🌐 Connect With Me
+## 🎯 Career Goal
 
-<p align="center">
+My objective is to build a career in Cloud Computing by developing expertise in Microsoft Azure and cloud infrastructure.
+
+I'm committed to continuous learning and gaining practical experience that prepares me for real-world cloud engineering roles.
+
+---
+
+## 📈 GitHub Journey
+
+I'm currently using GitHub to document my learning journey, improve my technical skills, and share projects as I continue growing in Cloud Computing.
+
+Every repository represents another step forward.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
 
 <a href="https://www.linkedin.com/in/nitya-jaradi-908346225">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -155,10 +143,12 @@ I aim to contribute to designing, deploying, and managing secure, scalable, and 
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=NityaJaradi&style=for-the-badge&color=0078D4"/>
+![](https://komarev.com/ghpvc/?username=NityaJaradi&style=flat-square&color=blue)
 
 </p>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+---
+
+<p align="center">
+⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
