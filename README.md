@@ -159,13 +159,13 @@ Every repository represents another step forward.
 </a>
 
 &nbsp;
-
+<p align="center">
 <a href="https://x.com/NityaJaradi2">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 &nbsp;
-
+<p align="center">
 <a href="mailto:nityajaradi02@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
