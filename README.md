@@ -1,18 +1,173 @@
-# 💫 About Me:
-I am an MCA aspirant with a strong interest in Cloud Computing and modern IT infrastructure.<br><br><br><br>Currently, I am focused on building a solid foundation in cloud technologies, especially learning how applications are deployed, managed, and scaled on platforms like Microsoft Azure.<br><br><br><br>Alongside this, I am exploring basic web development using WordPress to understand how websites are structured and hosted, which supports my overall learning in cloud environments.<br><br><br><br>My goal is to develop the skills required to work with cloud-based systems and contribute to building scalable and efficient solutions.<br><br><br><br>I am actively learning and looking for opportunities to gain practical experience in cloud computing and related technologies.
+<h1 align="center">Hi 👋, I'm Nitya Jaradi</h1>
 
+<h3 align="center">
+☁️ MCA Student | Aspiring Cloud Engineer | Microsoft Azure Learner
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nitya.jaradi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nitya Jaradi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Nitya Jaradi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nitya jaradi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nityajaradi02@gmail.com) 
+<p align="center">
+Passionate about Cloud Computing, Linux, DevOps, and building scalable cloud solutions.
+</p>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NityaJaradi&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=NityaJaradi&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NityaJaradi&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Cloud+Computing+Enthusiast;Microsoft+Azure+Learner;Linux+Explorer;Learning+DevOps+Tools;Future+Cloud+Engineer" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=NityaJaradi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+🎓 MCA Student passionate about Cloud Computing and modern IT infrastructure.
+
+☁️ Currently building practical skills in Microsoft Azure, Linux, Docker, and cloud networking.
+
+💻 Interested in designing, deploying, and managing scalable cloud solutions.
+
+📚 I enjoy learning by building projects, completing certifications, and exploring new technologies.
+
+🎯 **Career Goal:** Become a Cloud Engineer specializing in Microsoft Azure and Cloud Infrastructure.
+
+---
+
+# 🚀 Current Learning
+
+- ☁️ Microsoft Azure (AZ-900)
+- 🐧 Linux Administration
+- 🐳 Docker
+- 🌐 Cloud Networking
+- 🌍 WordPress Hosting
+- 🔧 Terraform *(Learning)*
+- ☸️ Kubernetes *(Learning)*
+
+---
+
+# 🛠️ Tech Stack
+
+### ☁️ Cloud
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🐧 Operating System
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🚀 DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Learning-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🔧 Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🌐 Web
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+---
+
+# 📚 Learning Roadmap
+
+- ✅ Git & GitHub
+- ✅ WordPress Deployment
+- ✅ Linux Fundamentals
+- 🔄 Microsoft Azure AZ-900
+- ⏳ Docker
+- ⏳ Kubernetes
+- ⏳ Terraform
+- 🎯 Microsoft Azure AZ-104
+
+---
+
+# 📜 Certifications
+
+🏅 Linux Foundation LFS101 *(Completed)*
+
+🎯 Microsoft Azure Fundamentals (AZ-900) *(Preparing)*
+
+---
+
+# 🚀 Featured Projects
+
+## 🌐 Phoenix Archery Website
+
+A professional business website built using:
+
+- WordPress
+- Elementor
+- Cloudflare
+- Hostinger
+
+---
+
+## ☁️ Cloud Journey *(Upcoming)*
+
+- Azure Virtual Machines
+- Azure Virtual Network
+- Azure Storage
+- Azure App Service
+- Azure Monitor
+- Azure Resource Groups
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NityaJaradi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NityaJaradi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NityaJaradi&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NityaJaradi&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NityaJaradi&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nitya-jaradi-908346225">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/NityaJaradi2">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:nityajaradi02@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=NityaJaradi&style=for-the-badge&color=0078D4"/>
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
