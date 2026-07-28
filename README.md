@@ -135,14 +135,11 @@ Every repository represents another step forward.
 
 ---
 
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=NityaJaradi&style=flat-square&color=blue)
-
-</p>
-
 ---
 
-<p align="center">
-⭐ <b>Thanks for visiting my profile!</b> ⭐
-</p>
+## 🤝 Let's Connect
+
+I'm always open to connecting with fellow learners, cloud enthusiasts, and professionals.
+
+
+⭐ Thanks for visiting my profile!
