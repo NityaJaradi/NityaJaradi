@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitya Jaradi</h1>
+<h1 align="center">Hi , I'm Nitya Jaradi</h1>
 
 <p align="center">
 <b>MCA Student • Aspiring Cloud Engineer • Microsoft Azure Learner</b>
@@ -24,8 +24,7 @@ My long-term goal is to become a Cloud Engineer capable of designing, deploying,
 
 ## 🎯 What I'm Currently Learning
 
-- ☁ Microsoft Azure Fundamentals (AZ-900)
-- 🐧 Linux Fundamentals
+- ☁ Microsoft Azure
 - 🌐 Cloud Computing Concepts
 - 🔧 Git & GitHub
 - 🌍 WordPress Hosting
@@ -41,16 +40,11 @@ Started MCA
 Interest in Cloud Computing
       │
       ▼
-Linux Fundamentals
-      │
-      ▼
 Website Hosting & WordPress
       │
       ▼
 Microsoft Azure
-      │
-      ▼
-Preparing for AZ-900
+      
       │
       ▼
 Future Cloud Engineer 🚀
